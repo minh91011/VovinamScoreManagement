@@ -1,0 +1,256 @@
+﻿
+<html>
+<head>
+	<style>
+		.login-page {
+			width: 1500px;
+			padding: 2% 0 0;
+			margin: auto;
+		}
+
+		.form {
+			position: relative;
+			z-index: 1;
+			background: #FFFFFF;
+			max-width: 1500px;
+			margin: 0 auto 50px;
+			padding: 45px;
+			text-align: center;
+			box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+		}
+
+			.form input {
+				font-family: "Roboto", sans-serif;
+				outline: 0;
+				background: #f2f2f2;
+				width: 100%;
+				border: 0;
+				margin: 0 0 15px;
+				padding: 15px;
+				box-sizing: border-box;
+				font-size: 14px;
+			}
+
+			.form button {
+				font-family: "Roboto", sans-serif;
+				text-transform: uppercase;
+				outline: 0;
+				background: #C0C0C0;
+				width: 100%;
+				border: 0;
+				padding: 15px;
+				color: #FFFFFF;
+				font-size: 14px;
+				-webkit-transition: all 0.3 ease;
+				transition: all 0.3 ease;
+				cursor: pointer;
+			}
+
+				.form button:hover, .form button:active, .form button:focus {
+					background: #808080;
+				}
+
+			.form .message {
+				margin: 15px 0 0;
+				color: #b3b3b3;
+				font-size: 12px;
+			}
+
+				.form .message a {
+					color: #C0C0C0;
+					text-decoration: none;
+				}
+
+			.form .register-form {
+				display: none;
+			}
+
+		.container {
+			position: relative;
+			z-index: 1;
+			max-width: 300px;
+			margin: 0 auto;
+		}
+
+			.container:before, .container:after {
+				content: "";
+				display: block;
+				clear: both;
+			}
+
+			.container .info {
+				margin: 50px auto;
+				text-align: center;
+			}
+
+				.container .info h1 {
+					margin: 0 0 15px;
+					padding: 0;
+					font-size: 36px;
+					font-weight: 300;
+					color: #1a1a1a;
+				}
+
+				.container .info span {
+					color: #4d4d4d;
+					font-size: 12px;
+				}
+
+					.container .info span a {
+						color: #000000;
+						text-decoration: none;
+					}
+
+					.container .info span .fa {
+						color: #EF3B3A;
+					}
+
+		body {
+			background: #00CCFF; /* fallback for old browsers */
+			background: #00CCCC;
+			background: linear-gradient(90deg, #CC9933 0%, #FF9900 50%);
+			font-family: "Roboto", sans-serif;
+			-webkit-font-smoothing: antialiased;
+			-moz-osx-font-smoothing: grayscale;
+		}
+
+		.topnav {
+			overflow: hidden;
+			background-color: #333;
+		}
+
+			.topnav a {
+				float: left;
+				display: block;
+				color: #f2f2f2;
+				text-align: center;
+				padding: 14px 16px;
+				text-decoration: none;
+				font-size: 17px;
+			}
+
+				.topnav a:hover {
+					background-color: #ddd;
+					color: black;
+				}
+
+				.topnav a.active {
+					background-color: blue;
+					color: white;
+				}
+
+			.topnav .icon {
+				display: none;
+			}
+
+		.footer-clean {
+			padding: 50px 0;
+			background-color: #fff;
+			color: #4b4c4d;
+		}
+
+			.footer-clean h3 {
+				margin-top: 0;
+				margin-bottom: 12px;
+				font-weight: bold;
+				font-size: 16px;
+			}
+
+			.footer-clean ul {
+				padding: 0;
+				list-style: none;
+				line-height: 1.6;
+				font-size: 14px;
+				margin-bottom: 0;
+			}
+
+				.footer-clean ul a {
+					color: inherit;
+					text-decoration: none;
+					opacity: 0.8;
+				}
+
+					.footer-clean ul a:hover {
+						opacity: 1;
+					}
+
+			.footer-clean .item.social {
+				text-align: right;
+			}
+
+				.footer-clean .item.social > a {
+					font-size: 24px;
+					width: 40px;
+					height: 40px;
+					line-height: 40px;
+					display: inline-block;
+					text-align: center;
+					border-radius: 50%;
+					border: 1px solid #ccc;
+					margin-left: 10px;
+					margin-top: 22px;
+					color: inherit;
+					opacity: 0.75;
+				}
+
+					.footer-clean .item.social > a:hover {
+						opacity: 0.9;
+					}
+
+			.footer-clean .copyright {
+				margin-top: 14px;
+				margin-bottom: 0;
+				font-size: 13px;
+				opacity: 0.6;
+			}
+	</style>
+</head>
+<body>
+	<div class="topnav" id="myTopnav">
+		<a href="/Home/Index" class="active">VOVINAM</a>
+		<a href="/Account/Login">Logout (@ViewBag.userName)</a>
+		@if (ViewBag.chucvu == "-1")
+		{
+			<a href="/Manager/ManagerRank">Quản lý bậc </a>
+			<a href="/Manager/ManagerStudent">Quản lý học viên  </a>
+			<a href="/Manager/ManagerClass">Quản lý lớp học  </a>
+			<a href="/Manager/SettingClass">Thiết lập lớp học </a>
+		}
+		@if (ViewBag.chucvu == "0")
+		{
+			<a href="/Manager/ManagerScore">Quản lý điểm </a>
+			<a href="/Manager/ViewRank">Xem bậc học viên</a>
+		}
+
+	</div>
+	<div class="login-page">
+		<form action="/Home/Index" method="post">
+
+
+			<div class="form">
+
+				<img src="https://image.baogialai.com.vn/w840/dataimages/202208/original/116958F8EBBA1E2B2D34256114AA1852.JPG" />
+
+
+			</div>
+
+
+		</form>
+
+
+	</div>
+
+
+	<footer>
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-3 item social" style="display:flex;">
+				</div>
+			</div>
+		</div>
+	</footer>
+</body>
+</html>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.bundle.min.js"></script>

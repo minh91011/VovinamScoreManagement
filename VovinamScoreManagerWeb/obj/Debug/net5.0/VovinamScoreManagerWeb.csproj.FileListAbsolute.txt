@@ -1,0 +1,187 @@
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\appsettings.json
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\VovinamScoreManagerWeb.exe
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\VovinamScoreManagerWeb.deps.json
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\VovinamScoreManagerWeb.runtimeconfig.json
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\VovinamScoreManagerWeb.runtimeconfig.dev.json
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\VovinamScoreManagerWeb.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\VovinamScoreManagerWeb.pdb
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\VovinamScoreManagerWeb.Views.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\VovinamScoreManagerWeb.Views.pdb
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.csproj.AssemblyReference.cache
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.AssemblyInfoInputs.cache
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.AssemblyInfo.cs
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.csproj.CoreCompileInputs.cache
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.RazorAssemblyInfo.cache
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.RazorAssemblyInfo.cs
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\scopedcss\bundle\VovinamScoreManagerWeb.styles.css
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\staticwebassets\VovinamScoreManagerWeb.StaticWebAssets.Manifest.cache
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.TagHelpers.input.cache
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.TagHelpers.output.cache
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.RazorCoreGenerate.cache
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\Razor\Views\Manager\ManagerClass.cshtml.g.cs
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\Razor\Views\Manager\ManagerRank.cshtml.g.cs
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\Razor\Views\Manager\ManagerScore.cshtml.g.cs
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\Razor\Views\Manager\ManagerStudent.cshtml.g.cs
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\Razor\Views\Manager\SettingClass.cshtml.g.cs
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\Razor\Views\Manager\ViewRank.cshtml.g.cs
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.RazorTargetAssemblyInfo.cache
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.RazorTargetAssemblyInfo.cs
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.Views.pdb
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.csproj.CopyComplete
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\refint\VovinamScoreManagerWeb.dll
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.pdb
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.genruntimeconfig.cache
+C:\Users\hung6\OneDrive\Máy tính\sp 2023\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\ref\VovinamScoreManagerWeb.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\appsettings.json
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\VovinamScoreManagerWeb.exe
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\VovinamScoreManagerWeb.deps.json
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\VovinamScoreManagerWeb.runtimeconfig.json
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\VovinamScoreManagerWeb.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\VovinamScoreManagerWeb.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\VovinamScoreManagerWeb.pdb
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\VovinamScoreManagerWeb.Views.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\VovinamScoreManagerWeb.Views.pdb
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.AssemblyInfo.cs
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.RazorAssemblyInfo.cache
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.RazorAssemblyInfo.cs
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\scopedcss\bundle\VovinamScoreManagerWeb.styles.css
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\staticwebassets\VovinamScoreManagerWeb.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\staticwebassets\VovinamScoreManagerWeb.StaticWebAssets.Pack.cache
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\staticwebassets\msbuild.VovinamScoreManagerWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\staticwebassets\msbuild.build.VovinamScoreManagerWeb.props
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.VovinamScoreManagerWeb.props
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.VovinamScoreManagerWeb.props
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.TagHelpers.input.cache
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.TagHelpers.output.cache
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.RazorCoreGenerate.cache
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\Razor\Views\Manager\ManagerClass.cshtml.g.cs
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\Razor\Views\Manager\ManagerRank.cshtml.g.cs
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\Razor\Views\Manager\ManagerScore.cshtml.g.cs
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\Razor\Views\Manager\ManagerStudent.cshtml.g.cs
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\Razor\Views\Manager\SettingClass.cshtml.g.cs
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\Razor\Views\Manager\ViewRank.cshtml.g.cs
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.Views.pdb
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.csproj.CopyComplete
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\refint\VovinamScoreManagerWeb.dll
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.pdb
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\VovinamScoreManagerWeb.genruntimeconfig.cache
+C:\Users\Admin\Downloads\VovinamScoreManagerFix\VovinamScoreManager\VovinamScoreManagerWeb\obj\Debug\net5.0\ref\VovinamScoreManagerWeb.dll

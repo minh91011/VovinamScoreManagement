@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style>
+		body {
+			font-family: Arial, Helvetica, sans-serif;
+		}
+
+		form {
+			border: 3px solid #f1f1f1;
+		}
+
+		input[type=text], input[type=password] {
+			width: 100%;
+			padding: 12px 20px;
+			margin: 8px 0;
+			display: inline-block;
+			border: 1px solid #ccc;
+			box-sizing: border-box;
+		}
+
+		button {
+			background-color: blue;
+			color: white;
+			padding: 14px 20px;
+			margin: 8px 0;
+			border: none;
+			cursor: pointer;
+			width: 100%;
+		}
+
+			button:hover {
+				opacity: 0.8;
+			}
+
+		.cancelbtn {
+			width: auto;
+			padding: 10px 18px;
+			background-color: #f44336;
+		}
+
+		.imgcontainer {
+			text-align: center;
+			margin: 24px 0 12px 0;
+		}
+
+		img.avatar {
+			width: 40%;
+			border-radius: 50%;
+		}
+
+		.container {
+			padding: 16px;
+		}
+
+		span.psw {
+			float: right;
+			padding-top: 16px;
+		}
+
+	</style>
+</head>
+<body>
+
+	<h2>Quản lý điểm </h2>
+
+	<form action="/Account/LoginAccess" method="post">
+		<div class="imgcontainer">
+			<img src="https://play-lh.googleusercontent.com/55qePQOIx5-aadsIbr_ImyePSuVyhbTIkQe2DpDc6GNjewismg7TURfFMl2rbvE93w=w600-h300-pc0xffffff-pd" alt="Avatar" class="avatar">
+		</div>
+
+		<div class="container">
+
+			<h1 style="color:red;">@ViewBag.mess</h1>
+			<label for="uname"><b>Tên tài khoản </b></label>
+			<input type="text" name="username" required>
+
+			<label for="psw"><b>Mật khẩu</b></label>
+			<input type="password" name="pass" required>
+
+			<button type="submit">Đăng nhập</button>
+		</div>
+	</form>
+
+</body>
+</html>

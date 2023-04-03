@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VovinamScoreManager", "VovinamScoreManager\VovinamScoreManager.csproj", "{9394A756-8294-42D2-9DDF-B8DACBB4C111}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VovinamScoreManagerWeb", "VovinamScoreManagerWeb\VovinamScoreManagerWeb.csproj", "{1BD668CD-8AE4-4A82-800A-A9274721E8E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9394A756-8294-42D2-9DDF-B8DACBB4C111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9394A756-8294-42D2-9DDF-B8DACBB4C111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9394A756-8294-42D2-9DDF-B8DACBB4C111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9394A756-8294-42D2-9DDF-B8DACBB4C111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD668CD-8AE4-4A82-800A-A9274721E8E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD668CD-8AE4-4A82-800A-A9274721E8E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD668CD-8AE4-4A82-800A-A9274721E8E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD668CD-8AE4-4A82-800A-A9274721E8E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC953025-0622-489F-80A7-E050EFC84785}
+	EndGlobalSection
+EndGlobal
